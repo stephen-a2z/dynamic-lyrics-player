@@ -36,8 +36,6 @@ coverage
 .cache
 
 # 包管理器
-package-lock.json
-pnpm-lock.yaml
 yarn.lock
 
 # macOS
