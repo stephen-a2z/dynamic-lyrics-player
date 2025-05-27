@@ -22,8 +22,8 @@ A modern React application that visualizes lyrics dynamically with audio playbac
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/DynamicLyricsPlayer.git
-    cd DynamicLyricsPlayer/react_template
+    git clone https://github.com/stephen-a2z/dynamic-lyrics-player.git
+    cd dynamic-lyrics-player
     ```
 2.  Install dependencies:
     ```bash
